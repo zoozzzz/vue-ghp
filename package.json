@@ -1,6 +1,7 @@
 {
   "name": "vue-ghp",
   "version": "0.0.0",
+  "homepage": "https://zoozzzz.github.io/vue-ghp",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
