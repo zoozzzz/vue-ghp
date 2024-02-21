@@ -32,4 +32,4 @@ function copyFile(sourceFilePath, destinationFilePath) {
 // const destinationFilePath = "destination_file.txt";
 
 // 调用复制文件的函数
-copyFile('./dist/index.html', './dist/404.html');
+copyFile("./dist/index.html", "./dist/404.html");
